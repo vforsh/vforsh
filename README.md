@@ -5,7 +5,6 @@ games. During my career I've participated in a creation of more than 40 games bo
 software engineer and as a project manager.
 
 I enjoy creating performant and visually appealing web games. Also I'm a huge proponent of
-improving developer experience. I often spend inexcusable amount of time creating some
-scripts and tools for automation.
+improving developer experience. I often spend inexcusable amount of time creating scripts and tools for automation.
 
 [Portfolio](https://robowhale.com) / [CV](https://robowhale.com/cv_en) / [Telegram](https://t.me/vforsh)
